@@ -7,10 +7,10 @@
 * Pandas basics
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+I remembered a few things
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+It was not in difficult aspects and I was enjoying the questions
 
 ## Additional resources used 
-<To be filled>
+Nothing
