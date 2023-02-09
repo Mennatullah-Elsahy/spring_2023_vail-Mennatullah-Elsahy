@@ -9,10 +9,10 @@
 * Random Forests
 
 ## Main takeaways from doing today's assignment
-<I checked on many parts and practicd a lot>
+I checked on many parts and practicd a lot
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<There is a lot of information that I knew, but today helped me more to arrange and organize it and delve into it better>
+There is a lot of information that I knew, but today helped me more to arrange and organize it and delve into it better
 
 ## Additional resources used 
 📑[Gini Index: Decision Tree, Formula, and Coefficient Blog](https://blog.quantinsti.com/gini-index/)<br>
