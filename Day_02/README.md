@@ -7,10 +7,10 @@
 * Building a simple Neural Network
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+This is my first time trying deep learning and I really enjoyed it.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+I loved tensorflow very much and would like to delve deeper into it.
 
 ## Additional resources used 
-<To be filled>
+[GitHub - tensorflow](https://github.com/tensorflow/examples)
