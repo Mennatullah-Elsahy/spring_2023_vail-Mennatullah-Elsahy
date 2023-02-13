@@ -18,5 +18,5 @@
 * Interesting or exciting aspects were my exploration of the trade-offs between different loss functions and how they affect model performance, and my discovery of how different loss functions can be combined to create more effective models.
 
 ## Additional resources used 
-📕[Book: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron (Chapter 2 & 10)](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view)
+📕[Book: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron (Chapter 2 & 10)](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view)<br>
 📰[A blog post by Jason Brownlee with examples and code](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
