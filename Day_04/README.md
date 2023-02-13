@@ -16,5 +16,5 @@ understanding how CNN components work to learn and extract meaningful features f
 * The exciting aspects can include applying CNNs to a wide range of image classification, object detection, and other computer vision problems, as well as using techniques like transfer learning to leverage pre-trained models for improved performance.
 
 ## Additional resources used 
-[Kaggle](https://www.kaggle.com/learn/deep-learning)
+[Kaggle](https://www.kaggle.com/learn/deep-learning)<br>
 [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=convolutional+neural+network&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
