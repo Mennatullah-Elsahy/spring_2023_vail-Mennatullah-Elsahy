@@ -21,7 +21,4 @@ I found visualizing the kernels and feature maps is particularly interesting, as
 
 ## Additional resources used 
 📌 [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)<br>
-📌 [Visualizing Convolutional Neural Networks using PyTorch and CAM](https://www.learnopencv.com/visualizing-convolutional-neural-networks-using-pytorch-and-cam/)<br>
-📌 [Convolutional Neural Networks in Python with Keras](https://machinelearningmastery.com/convolutional-neural-networks-python-keras/)<br>
-📌 [Convolutional Neural Networks (CNNs) with Keras](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.1-introduction-to-convnets.ipynb)<br>
-📌 [Convolutional Neural Networks (CNN) from Scratch](https://towardsdatascience.com/convolutional-neural-networks-cnn-from-scratch-2a56d5eeb623)<br>
+📌 [Neural Networks and Deep Learning" by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)<br>
