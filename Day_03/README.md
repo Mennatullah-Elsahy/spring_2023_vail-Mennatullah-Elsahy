@@ -20,5 +20,6 @@
 I found visualizing the kernels and feature maps is particularly interesting, as it can give insights into how the network is processing the input image.
 
 ## Additional resources used 
+📌 [Building Deep Neural Network: Step by Step](https://jmyao17.github.io/Machine_Learning/Neural_Network/NN_From_Scratch_1.html)
 📌 [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)<br>
 📌 [Neural Networks and Deep Learning" by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)<br>
