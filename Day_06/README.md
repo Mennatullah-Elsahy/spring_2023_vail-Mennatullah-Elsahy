@@ -21,5 +21,5 @@
 📌 ["Loss Functions in Deep Learning" by Dan Van Boxel on YouTube](https://www.youtube.com/watch?v=IVVVjBSk9N0)<br>
 This video provides an of different loss functions in deep learning, including Binary Cross-Entropy, Categorical Cross-Entropy, and Sparse Categorical Cross-Entropy, with visualizations and code snippets.<br>
 📌 ["Demystifying Cross-Entropy Loss" by Avik Jain](https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8)<br>
-📌 [A Brief Overview of Loss Functions in Pytorch](https://medium.com/@mudit13051998/a-brief-overview-of-loss-functions-in-pytorch-c0ddb78068f7)<br>
+📌 [ A Brief Overview of Loss Functions in Pytorch](https://medium.com/@mudit13051998/a-brief-overview-of-loss-functions-in-pytorch-c0ddb78068f7)<br>
 📌 ["A Gentle Introduction to Cross-Entropy for Machine Learning" by Jason Brownlee](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)<br>
