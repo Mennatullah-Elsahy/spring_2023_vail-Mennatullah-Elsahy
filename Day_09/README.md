@@ -16,6 +16,6 @@
 * The most challenging aspect of this assignment was understanding the concept of overfitting and underfitting and how to prevent them. 
 * The most interesting and exciting part was implementing different regularization methods and comparing their performance to improve the model's generalization performance.
 ## Additional resources used 
-📓(Kaggle notebook)[https://www.kaggle.com/ryanholbrook/overfitting-and-underfitting]<br>
-📹(DeepLearningAI)[https://www.youtube.com/watch?v=SjQyLhQIXSM]<br>
-📝(Article by EliteDataScience)[https://elitedatascience.com/overfitting-in-machine-learning]<br>
+📓[Kaggle notebook](https://www.kaggle.com/ryanholbrook/overfitting-and-underfitting)<br>
+📹[DeepLearningAI](https://www.youtube.com/watch?v=SjQyLhQIXSM)<br>
+📝[Article by EliteDataScience](https://elitedatascience.com/overfitting-in-machine-learning)<br>
