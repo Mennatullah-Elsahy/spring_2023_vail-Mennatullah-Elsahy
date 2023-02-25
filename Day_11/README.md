@@ -15,6 +15,5 @@
 * The most challenging aspect was thinking critically about bias in machine learning models and consider approaches to mitigate potential harms.
 * It is an exciting opportunity to apply these concepts to real-world examples and explore ways to create more equitable models.
 ## Additional resources used 
-🎥[Loss Functions for Machine Learning](https://www.youtube.com/watch?v=IVVVjBSk9N0)<br>
-🗒[Demystifying Cross-Entropy Loss](https://towardsdatascience.com/demystifying-cross-entropy-e80e3ad54a8)<br>
-🗒[A Gentle Introduction to Cross-Entropy for Machine Learning](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)<br>
+📝[AI Now 2019 Report](https://ainowinstitute.org/AI_Now_2019_Report.pdf)<br>
+📝[The Ethics of Artificial Intelligence](https://plato.stanford.edu/entries/ethics-ai/)<br>
